@@ -1,0 +1,2 @@
+npx create-probot-app my-github-bot
+cd my-github-bot
